@@ -249,9 +249,7 @@ input[type=submit] {
   }
 }
 @media only screen and (max-width: 640px) {
-    header{
-      position: static;
-    }
+    header-cont { width: 100%;  position: static; top: 0px; }
 
     body{
     background-color: Gray;
