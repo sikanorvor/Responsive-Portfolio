@@ -238,20 +238,3 @@ input[type=submit] {
   border: 0 none;
 }
 
-@media only screen and (max-width: 980px) {
-  body{
-    background-color: Orange;
-  }
-}
-@media only screen and (max-width: 768px) {
-    body{
-    background-color: Green;
-  }
-}
-@media only screen and (max-width: 640px) {
-    header-cont { width: 100%;  position: static; top: 0px; }
-
-    body{
-    background-color: Gray;
-  }
-}
